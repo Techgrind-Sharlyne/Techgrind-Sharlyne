@@ -1,7 +1,7 @@
 # 👋🏽 Hi, I'm Sharlyne Agini – Full-Stack Developer & Systems Architect
 
 💼 Founder @ **Techgrind Technologies**  
-🎓 Creator of **Crestfield International Institute Of Technology** – equipping the next generation with tech skills  
+🎓 Creator of **FutureCode Academy** – equipping the next generation with tech skills  
 🛠 I specialize in **real-world business solutions** that are deployed, secure, and scalable.
 
 ---
@@ -34,13 +34,13 @@ A school-wide LMS with book tracking, dynamic class/stream config, role-based ac
 - ✅ Integrates with biometric authentication
 - 🔒 Source code private – screenshots & documentation available
 
-Explore all projects in my [portfolio](https://github.com/Techgrind-Sharlyne/portfolio-projects).
+📂 Explore more at → [Portfolio Projects](https://github.com/Techgrind-Sharlyne/portfolio-projects)
 
 ---
 
 ## 🌍 Let’s Connect
 
-💌 andisiagini@gmail.com  
+💌 **andisiagini@gmail.com**  
 🌐 [crestfield.co.ke](https://www.crestfield.co.ke)  
 🌐 [tgt.co.ke](https://www.tgt.co.ke) 
 🔗 [LinkedIn](https://www.linkedin.com/in/sharlyne-agini-167350378)
